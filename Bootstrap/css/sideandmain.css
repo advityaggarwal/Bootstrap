@@ -1,0 +1,23 @@
+.sidebarcontent
+{
+    background-color: grey;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: pink;
+    margin: 20px;
+    height: 140px;
+    padding: 5px;
+    font-size: large;
+
+}
+.maincontent
+{
+    background-color: grey;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgba(red, green, blue, alpha);
+    margin: 20px;
+    height: 320px;
+    font-size: large;
+    padding: 5px;
+}
